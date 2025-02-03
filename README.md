@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas,
-<p>Tenho 19 anos, estou cursando o primeiro período em Sistemas de Informção.</p>
+<p>Tenho 19 anos, estou cursando o segundo período em Sistemas de Informção.</p>
 <p>Sou amante de técnologia e estou sempre buscando aprender coisas novas.</p>
 <p>Atualmente trabalho como assistente administrativo no setor de monitoramento mas estou em um processo de transição de carreira.</p>
 <p>Fora da faculdade adquiri conhecimento base em...<br>

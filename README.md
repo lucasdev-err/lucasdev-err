@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 👋
 
-Me chamo Lucas, tenho 19 anos e sou fascinado por tecnologia desde que me entendo por gente.
+Me chamo Lucas, tenho 20 anos e sou fascinado por tecnologia desde que me entendo por gente.
 
 Minha jornada na programação começou no início da pandemia, quando descobri o desenvolvimento web e me encantei pelo front-end. A possibilidade de transformar ideias em interfaces visuais funcionais me fascinou, e passei a estudar de forma autodidata, explorando cursos gratuitos e praticando sempre que possível.
 

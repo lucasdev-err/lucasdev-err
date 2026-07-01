@@ -1,15 +1,5 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 👋
 
-Me chamo Lucas, tenho 20 anos e sou fascinado por tecnologia desde que me entendo por gente.
-
-Minha jornada na programação começou no início da pandemia, quando descobri o desenvolvimento web e me encantei pelo front-end. A possibilidade de transformar ideias em interfaces visuais funcionais me fascinou, e passei a estudar de forma autodidata, explorando cursos gratuitos e praticando sempre que possível.
-
-Mas, no final de 2023, percebi que minha curiosidade ia além da parte visual. Queria entender como tudo funcionava nos bastidores, como os dados eram processados e como tornar as aplicações mais eficientes. Foi então que mergulhei no back-end — e desde então, esse tem sido meu maior foco.
-
-Atualmente, estou cursando o segundo período de Sistemas de Informação, aprofundando meus conhecimentos e buscando aprimorar minhas habilidades no desenvolvimento de sistemas robustos, escaláveis e bem estruturados. Meu objetivo é unir minha experiência com front-end ao poder do back-end para criar aplicações completas e eficientes.
-
-
-
 Estou sempre em busca de novos desafios e aprendizados. Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou projetos, me chama!
 
 ## ☎️ Contatos

@@ -3,7 +3,7 @@
 Estou sempre em busca de novos desafios e aprendizados. Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou projetos, me chama!
 
 ## ☎️ Contatos
-<a href="https://www.linkedin.com/in/lucas-err/"> <img alt="Linkedin" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> </a>
+<a href="https://www.linkedin.com/in/lucas-err/" target="_blank"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 ## 👨‍💻 Tecnologias e Ferramentas
 ### 🎨 Desenvolvimento Web
